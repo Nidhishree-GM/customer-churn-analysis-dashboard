@@ -21,22 +21,28 @@ The goal of this project is to identify churn patterns, analyze customer behavio
 
 ## Project Structure
 
+```text
 customer-churn-analysis/
 │
 ├── data/
-│ ├── customers.csv
-│ └── usage_metrics.csv
+│   ├── customers.csv
+│   └── usage_metrics.csv
 │
 ├── notebooks/
-│ └── churn analysis.ipynb
+│   └── churn analysis.ipynb
 │
 ├── sql/
-│ └── queries.sql
+│   └── queries.sql
 │
 ├── powerbi/
-│ └── Customer_Churn_Dashboard.pbix
+│   └── Customer_Churn_Dashboard.pbix
+│
+├── images/
+│   ├── Churn analysis dashboard.png
+│   └── Churn analysis - key insights.png
 │
 └── README.md
+```
 
 ---
 
